@@ -1,0 +1,9 @@
+@import "../abstract/variables";
+@import "../abstract/functions";
+@import "../abstract/mixins";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
