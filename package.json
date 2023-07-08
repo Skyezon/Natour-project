@@ -11,6 +11,6 @@
   "author": "Richard delbert",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^9.0.0"
   }
 }
